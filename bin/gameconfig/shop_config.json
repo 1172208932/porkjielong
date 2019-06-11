@@ -1,0 +1,226 @@
+{
+	"10001": {
+		"Atlas": "res/atlas/bg.atlas",
+		"ICON": "bg/Bg_1.png",
+		"ItemName": "雪花",
+		"ItemPrice": 1,
+		"page": 1
+	},
+	"10002": {
+		"Atlas": "res/atlas/bg.atlas",
+		"ICON": "bg/Bg_2.png",
+		"ItemName": "红心",
+		"ItemPrice": 1,
+		"page": 1
+	},
+	"10003": {
+		"Atlas": "res/atlas/bg.atlas",
+		"ICON": "bg/Bg_3.png",
+		"ItemName": "四叶草",
+		"ItemPrice": 1,
+		"page": 1
+	},
+	"10004": {
+		"Atlas": "res/atlas/bg.atlas",
+		"ICON": "bg/Bg_4.png",
+		"ItemName": "树",
+		"ItemPrice": 1,
+		"page": 1
+	},
+	"10005": {
+		"Atlas": "res/atlas/bg.atlas",
+		"ICON": "bg/Bg_5.png",
+		"ItemName": "紫色花",
+		"ItemPrice": 1,
+		"page": 1
+	},
+	"10006": {
+		"Atlas": "res/atlas/bg.atlas",
+		"ICON": "bg/Bg_6.png",
+		"ItemName": "绿荫足球",
+		"ItemPrice": 1,
+		"page": 1
+	},
+	"10007": {
+		"Atlas": "res/atlas/bg.atlas",
+		"ICON": "bg/Bg_7.png",
+		"ItemName": "烟花",
+		"ItemPrice": 1,
+		"page": 1
+	},
+	"10008": {
+		"Atlas": "res/atlas/bg.atlas",
+		"ICON": "bg/Bg_8.png",
+		"ItemName": "森林",
+		"ItemPrice": 1,
+		"page": 1
+	},
+	"10009": {
+		"Atlas": "res/atlas/bg.atlas",
+		"ICON": "bg/Bg_9.png",
+		"ItemName": "数学",
+		"ItemPrice": 1,
+		"page": 1
+	},
+	"10010": {
+		"Atlas": "res/atlas/bg.atlas",
+		"ICON": "bg/Bg_10.png",
+		"ItemName": "万圣节",
+		"ItemPrice": 1,
+		"page": 1
+	},
+	"10011": {
+		"Atlas": "res/atlas/bg.atlas",
+		"ICON": "bg/Bg_11.png",
+		"ItemName": "枫叶",
+		"ItemPrice": 1,
+		"page": 1
+	},
+	"10012": {
+		"Atlas": "res/atlas/bg.atlas",
+		"ICON": "bg/Bg_12.png",
+		"ItemName": "阳光",
+		"ItemPrice": 1,
+		"page": 1
+	},
+	"20001": {
+		"Atlas": "res/atlas/poker.atlas",
+		"ICON": "poker/",
+		"ItemName": "清爽",
+		"ItemPrice": 1,
+		"page": 2
+	},
+	"20002": {
+		"Atlas": "res/atlas/poker1.atlas",
+		"ICON": "poker1/",
+		"ItemName": "经典",
+		"ItemPrice": 1,
+		"page": 2
+	},
+	"20003": {
+		"Atlas": "res/atlas/poker2.atlas",
+		"ICON": "poker2/",
+		"ItemName": "粗字",
+		"ItemPrice": 1,
+		"page": 2
+	},
+	"20004": {
+		"Atlas": "res/atlas/poker3.atlas",
+		"ICON": "poker3/",
+		"ItemName": "细字",
+		"ItemPrice": 1,
+		"page": 2
+	},
+	"30001": {
+		"Atlas": "res/atlas/back.atlas",
+		"ICON": "back/img_card_back1.png",
+		"ItemName": "牡丹",
+		"ItemPrice": 1,
+		"page": 3
+	},
+	"30002": {
+		"Atlas": "res/atlas/back.atlas",
+		"ICON": "back/img_card_back2.png",
+		"ItemName": "编织蓝",
+		"ItemPrice": 1,
+		"page": 3
+	},
+	"30003": {
+		"Atlas": "res/atlas/back.atlas",
+		"ICON": "back/img_card_back3.png",
+		"ItemName": "蘑菇",
+		"ItemPrice": 1,
+		"page": 3
+	},
+	"30004": {
+		"Atlas": "res/atlas/back.atlas",
+		"ICON": "back/img_card_back4.png",
+		"ItemName": "十字绣",
+		"ItemPrice": 1,
+		"page": 3
+	},
+	"30005": {
+		"Atlas": "res/atlas/back.atlas",
+		"ICON": "back/img_card_back5.png",
+		"ItemName": "红岩",
+		"ItemPrice": 1,
+		"page": 3
+	},
+	"30006": {
+		"Atlas": "res/atlas/back.atlas",
+		"ICON": "back/img_card_back6.png",
+		"ItemName": "皇家",
+		"ItemPrice": 1,
+		"page": 3
+	},
+	"30007": {
+		"Atlas": "res/atlas/back.atlas",
+		"ICON": "back/img_card_back7.png",
+		"ItemName": "花纹",
+		"ItemPrice": 1,
+		"page": 3
+	},
+	"30008": {
+		"Atlas": "res/atlas/back.atlas",
+		"ICON": "back/img_card_back8.png",
+		"ItemName": "猫咪",
+		"ItemPrice": 1,
+		"page": 3
+	},
+	"30009": {
+		"Atlas": "res/atlas/back.atlas",
+		"ICON": "back/img_card_back9.png",
+		"ItemName": "红黄蓝绿",
+		"ItemPrice": 1,
+		"page": 3
+	},
+	"30010": {
+		"Atlas": "res/atlas/back.atlas",
+		"ICON": "back/img_card_back10.png",
+		"ItemName": "狗",
+		"ItemPrice": 1,
+		"page": 3
+	},
+	"30011": {
+		"Atlas": "res/atlas/back.atlas",
+		"ICON": "back/img_card_back11.png",
+		"ItemName": "龙",
+		"ItemPrice": 1,
+		"page": 3
+	},
+	"30012": {
+		"Atlas": "res/atlas/back.atlas",
+		"ICON": "back/img_card_back12.png",
+		"ItemName": "纯白的花",
+		"ItemPrice": 1,
+		"page": 3
+	},
+	"30013": {
+		"Atlas": "res/atlas/back.atlas",
+		"ICON": "back/img_card_back13.png",
+		"ItemName": "花的宴",
+		"ItemPrice": 1,
+		"page": 3
+	},
+	"30014": {
+		"Atlas": "res/atlas/back.atlas",
+		"ICON": "back/img_card_back14.png",
+		"ItemName": "绿色编织",
+		"ItemPrice": 1,
+		"page": 3
+	},
+	"30015": {
+		"Atlas": "res/atlas/back.atlas",
+		"ICON": "back/img_card_back15.png",
+		"ItemName": "红牡丹",
+		"ItemPrice": 1,
+		"page": 3
+	},
+	"30016": {
+		"Atlas": "res/atlas/back.atlas",
+		"ICON": "back/img_card_back16.png",
+		"ItemName": "贝壳",
+		"ItemPrice": 1,
+		"page": 3
+	}
+}

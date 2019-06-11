@@ -1,0 +1,12 @@
+<res>
+   <item name="UI/bg_tab.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=25,27,20,26" picType="0" scale="0"/>
+   <item name="UI/introduction_play_ruban.png" type="Image" compress="0" pack="1" quality="80" props="sizeGrid=50,100,50,100" picType="0" scale="0"/>
+   <item name="UI/bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=32,9,6,12" picType="0" scale="0"/>
+   <item name="UI/tanchu_diban.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=36,24,18,31" picType="0" scale="0"/>
+   <item name="UI/chunbai_diban.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=36,152,37,142" picType="0" scale="0"/>
+   <item name="UI/switch_3.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,18,0,20" picType="0" scale="0"/>
+   <item name="login" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="UI/bg_1.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="UI/bg_bottom.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="UI/result_3.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+</res>
